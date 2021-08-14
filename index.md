@@ -6,4 +6,4 @@ feature_text: |
 ---
 
 This is our land! We are going to plant a digital garden here 
-![]
+![]()
