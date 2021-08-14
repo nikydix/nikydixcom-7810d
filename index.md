@@ -1,5 +1,5 @@
 ---
-title: Welcome to niky dix's digital garden
+title: Welcome to Niky Dix's Digital Garden
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Hello Garden
