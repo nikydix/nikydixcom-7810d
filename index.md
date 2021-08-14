@@ -5,5 +5,5 @@ feature_text: |
   
 ---
 
-This is our piece of internet land! We are going to plant a digital garden here soon,  
+This is our piece of internet land! We are going to plant a digital garden here soon, so do come back!  
 ![](https://i.postimg.cc/kXgZCkdc/Gaping-Void-Ai.jpg)
