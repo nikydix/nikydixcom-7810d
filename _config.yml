@@ -30,7 +30,7 @@ navigation_header:
   - title: Garden
     url: /garden/
   - title: Donate
-    url: /donate
+    url: /donate/
 navigation_footer:
   - title: Back to top
     url: '#top'
