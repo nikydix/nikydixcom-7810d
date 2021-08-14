@@ -5,4 +5,4 @@ feature_text: |
   ## Hello Garden
 ---
 
-There isn't much going on here yet, but watch this space
+This is our land! We are going to plant a digital garden here 
