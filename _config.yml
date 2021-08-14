@@ -29,6 +29,7 @@ navigation_header:
     url: /about/
   - title: Garden
     url: /garden/
+  
 navigation_footer:
   - title: Back to top
     url: '#top'
