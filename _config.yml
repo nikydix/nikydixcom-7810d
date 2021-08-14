@@ -27,7 +27,7 @@ navigation_header:
     url: /
   - title: About
     url: /about/
-  - title: Blog
+  - title: Garden
     url: /blog/
 navigation_footer:
   - title: Back to top
