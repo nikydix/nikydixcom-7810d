@@ -19,7 +19,7 @@ baseurl: ''
 title: nikydix.com
 description: This is my new website
 permalink: pretty
-logo: 'https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52'
+logo: 'https://i.postimg.cc/LsgxW1T7/Intentional-Health-Logo-Stack-Full-copy.png'
 paginate: 5
 paginate_path: 'blog/page:num'
 navigation_header:
