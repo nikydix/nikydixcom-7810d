@@ -1,6 +1,6 @@
 ---
 title: Welcome to Niky Dix's Digital Garden
-feature_image: "https://i.postimg.cc/kXgZCkdc/Gaping-Void-Ai.jpg"
+feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   ## Hello Garden
 ---
