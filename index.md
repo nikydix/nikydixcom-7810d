@@ -1,5 +1,5 @@
 ---
-title: Welcome to Niky Dix's Digital Garden
+title: Welcome to Niky Dix's and Intentional Health's Digital Garden
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
