@@ -2,4 +2,4 @@
 title: Why donate?
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Intentional Health CIO is a registered Chritable Incorporated Organisation, England & Wales (1152310)
