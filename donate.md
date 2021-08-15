@@ -1,9 +1,9 @@
 ---
 title: Why donate?
 ---
-I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing and founded a charity
+I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
 
-Intentional Health CIO is a registered Chritable Incorporated Organisation, England & Wales (1152310) that exists to improve lifestyle health and reduce health inequalities. 
+I founded Intentional Health CIO is a registered Chritable Incorporated Organisation, England & Wales (1152310) that exists to improve lifestyle health and reduce health inequalities. 
 
 We can focus on this work because of a few "angels" that support our work financially. It means people who want to be part of what we are doing, but don't have the time, can financially support the work we don't have the money to do withouth! Just another great example of people coming together to do more collectively than we can individually :)
 
