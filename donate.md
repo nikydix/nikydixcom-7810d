@@ -1,6 +1,7 @@
 ---
 title: Why donate?
 ---
+I gave up a teaching career in 2009 to be able to make a bigger impact and set up a charity. 
 
 Intentional Health CIO is a registered Chritable Incorporated Organisation, England & Wales (1152310) that exists to improve lifestyle health and reduce health inequalities. 
 
