@@ -6,4 +6,4 @@ feature_text: |
 ---
 
 This is our piece of internet land! We are going to be planting a digital garden here soon, so do come back!  
-![](https://i.postimg.cc/kXgZCkdc/Gaping-Void-Ai.jpg)
+![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
