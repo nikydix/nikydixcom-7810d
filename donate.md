@@ -10,6 +10,6 @@ We also offer an opportunity for people who have been positively impacted by Int
 
 If you would like to join us and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
 
-Alternatively, 
+Alternatively, you can make a one off donation 
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nikydix" data-color="#FFDD00" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
