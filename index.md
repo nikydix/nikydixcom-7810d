@@ -7,5 +7,5 @@ feature_text: |
 ---
 This Garden is co-maintained by Niky Dix and Intentional Health, and like any other public garden, everyone is welcome 😃 
 
-We are just getting our piece of digital real-estate prepared! and are going to be planting a digital garden here soon, so do come back!  
+We are just getting our piece of digital real-estate ready! and are going to be planting a digital garden here soon, so do come back!  
 ![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
