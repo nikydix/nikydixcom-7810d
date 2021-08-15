@@ -6,7 +6,7 @@ I have been inspired to create this Digital Garden, to share some learning in pu
 
 Gardens that help people flourish in life are not new! Frances Hodgson Burnett wrote about her life giving secret garden in 1911! 
 
-I have been inspired to create this secret Digital Garden by [Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! 
+I was inspired by [Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! 
 
 A Digital Garden is a way of doing this. It is different from a traditional blogs in 2 ways. 
 
