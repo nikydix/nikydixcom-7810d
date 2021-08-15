@@ -11,7 +11,7 @@ It means people who want to be part of this Intentional Health family, but don't
 
 Becoming an 'Angel' also provides an opportunity for people who have been positively impacted by Intentional Health to be able to 'pay-it-forward' for someone else.
 
-If you would like to join us and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
+If you would like to join and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
 
 Alternatively, you can make a one off donation below if you want to directly support the learning that is going on alongside this charitable work! 
 
