@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
 ---
-This Garden is co-maintained by Niky Dix and Intentional Health. Just like any other public garden, everyone is welcome :) 
+This Garden is co-maintained by Niky Dix and Intentional Health, and like any other public garden, everyone is welcome :) 
 
 At the moment, we are just getting our piece of digital real-estate or internet land prepared! 
 
