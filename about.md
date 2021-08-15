@@ -16,7 +16,7 @@ A Digital Garden is different from a traditional blogs or website in 2 ways.
 
 If I want to learning in public with you through a traditional blog, I would learn something in private, then write about it, then publish it, and eventually you might read it. 
 
-A digital Garden is not published in one go, but grows and evolves, just like a real Garden! This means, I will be writing and learning at the same time, and you wil 
+A digital Garden is not published in one go, but grows and evolves, just like a real Garden! This means, I will be writing here and learning at the same time, and you will be able to peek in and watch or see what I learn!
 
 A digital Garden is different in that it is not a linear stream of content. Instead, it is known as Topographic! This means all the different posts and articles create a landscape that can be freely explored. 
 
