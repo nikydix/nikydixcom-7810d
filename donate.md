@@ -4,7 +4,9 @@ title: Why donate?
 
 Intentional Health CIO is a registered Chritable Incorporated Organisation, England & Wales (1152310) that exists to improve lifestyle health and reduce health inequalities. 
 
-We can focus on this work because of a few "angels" that support our work financially. It means people who want to be part of what we are doing, but don't have the time, can financially support the work we don't have the money to do withouth! Just another great example of people coming together to do more collectively than we can individually :) 
+We can focus on this work because of a few "angels" that support our work financially. It means people who want to be part of what we are doing, but don't have the time, can financially support the work we don't have the money to do withouth! Just another great example of people coming together to do more collectively than we can individually :)
+
+We also offer an opportunity for people who have been positively impacted by Intentional Health, to be able to 'pay-it-forward' for someone else who can't 
 
 If you would like to join us and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
 
