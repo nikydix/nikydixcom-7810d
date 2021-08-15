@@ -12,7 +12,7 @@ I was inspired by [Maggie Appleton](https://maggieappleton.com/garden-history) w
 
 A Digital Garden is different from a traditional blogs or website in 2 ways. 
 
-1) A digital blog tends to focus on a single topic at once (though it may contain hyper links through to other topics), and they have a pubished date. 
+1) A blog typically focuses on a single topic at once (though it may contain hyper links through to other topics), and they have a pubished date. 
 
 If I want to share my learning with you, I would learn something, then write about it, then publish it, and you would read it. A digital Garden is not published in one go, but grows and evolves, just like a real Garden!
 
