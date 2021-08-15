@@ -12,6 +12,8 @@ If you would like to join us and become an angel too, please [click here](http:/
 
 Alternatively, you can make a one off donation below if you want to directly support the learning that is going on alongside this charitable work! 
 
-Thanks for considering supporting 
+Thanks for your consideration, what ever you choose :) 
+
+Niky 
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nikydix" data-color="#FFDD00" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
