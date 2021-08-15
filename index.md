@@ -1,6 +1,6 @@
 ---
 title: Welcome to our Digital Garden. 
-This Garden is owned and maintained by Niky Dix's and Intentional Health. Just like any other public garden, all are welcome :) 
+
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
