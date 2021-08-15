@@ -1,12 +1,6 @@
 ---
 title: What is a Digital Garden?
 ---
----
-title: 
-categories:
-- General
-
----
 
 I have been inspired to create this Digital Garden, to share my learning in public, and help people flourish.
 
