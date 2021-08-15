@@ -7,7 +7,7 @@ I founded Intentional Health CIO to do this, which is a registered Chritable Inc
 
 I have been joined by a number of volunteers around the country, and can  focus on this work because a few "angels" support this work financially. 
 
-It means people who want to be part of what we are doing, but don't have the time, can financially support the work we don't have the money to do withouth! Just another great example of people coming together to do more collectively than we can individually :)
+It means people who want to be part of this Intentional Health family, but don't have the time to give, can financially support the work we don't have the money to do withouth! Just another great example of people coming together to do more collectively than we can individually :)
 
 We also offer an opportunity for people who have been positively impacted by Intentional Health, to be able to 'pay-it-forward' for someone else.
 
