@@ -20,7 +20,7 @@ A digital Garden is not published in one go, but grows and evolves, just like a 
 
 A digital Garden is also different in that it is not a linear stream of content. Instead, it is known as Topographic! This means all the different posts and articles create a landscape of different topics, that are related and that can be freely explored, again, just like a real garden!
 
-I think of it like one of those 'choose your own adventure stories' you can chose your path through the Garden, depending on what you want to explore! 
+I think of it like one of those 'choose your own adventure stories' You can chose your path through the Garden, depending on what you want to explore! 
 
 ---
 <h2> What will I be learning? </h2>
