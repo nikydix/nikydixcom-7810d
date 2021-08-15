@@ -7,5 +7,7 @@ feature_text: |
 ---
 This Garden is owned and maintained by Niky Dix and Intentional Health. Just like any other public garden, everyone is welcome :) 
 
-This is our piece of internet land! We are going to be planting a digital garden here soon, so do come back!  
+At the moment, we are just getting our piece of digital real-estate or internet land prepared! 
+
+We are going to be planting a digital garden here soon, so do come back!  
 ![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
