@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: What is a Digital Garden?
 ---
 ---
 title: 
