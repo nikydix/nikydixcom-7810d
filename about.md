@@ -12,7 +12,7 @@ I was inspired by [Maggie Appleton](https://maggieappleton.com/garden-history) w
 
 ---
 
-A Digital Garden is different from a traditional blogs or website in 2 ways. 
+A Digital Garden is different from a traditional website or blog in 2 ways. 
 
 1) A blog typically focuses on a single topic at once (though it may contain hyper links through to other topics), and has a pubished date. 
 
