@@ -15,4 +15,4 @@ ADD IN FORM HERE
 
 ![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
 
-If you want to find out more about what a digital Garden is, and is not, [click here!]() 
+If you want to find out more about what a digital Garden is, and is not, [click here!](https://nikydixcom-7810d.netlify.app/) 
