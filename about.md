@@ -59,4 +59,4 @@ These will be notes taking shape and starting to blossom. Idea's will be rapidly
 
 <h3>Evergreen Notes</h3>
 ---
-In the meantime, if you want to sign up to recieve emails with updates, please click here. 
+In the meantime, if you want to sign up to recieve emails with updates, please click here. *ADD LINK TO EMAIL SIGN UP**
