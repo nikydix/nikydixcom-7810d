@@ -11,7 +11,7 @@ We are still getting our piece of digital real-estate ready! and are going to be
 
 If you want to be the first to be notified when planting begins, you sign up here.
 
-ADD IN FORM HERE 
+ADD IN FORM CODE HERE ONCE EMAIL ADDRESS IS SET UP! Convertkit?
 
 ![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
 
