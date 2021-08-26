@@ -6,6 +6,8 @@ I (Niky Dix) have been inspired to create this Digital Garden, to help people fl
 
 Gardens that help people flourish in life are not new! Frances Hodgson Burnett wrote about her life giving secret garden in 1911! 
 
+This Garden is not a secret Garden though, it's a Digital Garden! 
+
 I was inspired by [Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! 
 
 ---
