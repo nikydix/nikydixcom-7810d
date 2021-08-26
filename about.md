@@ -6,7 +6,7 @@ I (Niky Dix) have been inspired to create this Digital Garden, to help people fl
 
 Gardens that help people flourish in life are not new! [Frances Hodgson Burnett](https://en.wikipedia.org/wiki/The_Secret_Garden) wrote about a secret garden back that improved the health of a little boy back in 1911! 
 
-This Garden is not a secret Garden though, it's a Digital Garden! - A public place, where all are welcome! Though like Frances Hodgson Burnett's Garden, I hope it breathes life into all who visit :) 
+Our Garden is not a secret Garden though, it's a Digital Garden! - A public place, where all are welcome! Though like Frances Hodgson Burnett's Garden, I hope it breathes life into all who visit :) 
 
 I was inspired by [Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! 
 
