@@ -2,7 +2,7 @@
 title: What is a Digital Garden?
 ---
 
-I have been inspired to create this Digital Garden, to share some learning in public, and help people flourish.
+I (Niky Dix) have been inspired to create this Digital Garden, to share some learning in public, and help people flourish.
 
 Gardens that help people flourish in life are not new! Frances Hodgson Burnett wrote about her life giving secret garden in 1911! 
 
