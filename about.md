@@ -52,31 +52,7 @@ Once the garden begins to be planted, you can expect to find 3 stages of content
 These are newly planted, are in the early stages, and probably won't really look anything like what they will eventually grow into! These will be my early ideas and understandings as the topics are introduced. 
 
 I'll be sharing these as you might be interested to find out more about what I'm planting though, so you can come back and watch it grow.
-{% for category in site.categories %}
-  {% assign category_name = category | first %}
-  <section class="section  typeset">
-    <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
-    <ul class="list  list--posts">
-      {% for page in site.categories[category_name] %}
-        {% assign has_categories = true %}
-        <li class="item  item--post">
-          <article class="article  article--post  typeset">
-            <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-            {% include post-meta.html %}
-            {{ page.excerpt | truncatewords: 60 | markdownify }}
-          </article>
-        </li>
-      {% endfor %}
-    </ul>
-    {% unless forloop.last %}<hr/>{% endunless %}
-  </section>
-{% endfor %}
 
-{% if has_categories != true %}
-  <section class="section  typeset">
-    <p>There are no categorised posts</p>
-  </section>
-{% endif %}
 
 <h3>Budding Ideas</h3>
 
