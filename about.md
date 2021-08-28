@@ -8,7 +8,7 @@ Gardens that help people flourish in life are not new! [Frances Hodgson Burnett]
 
 This Garden is not a secret Garden though, it's a Digital Garden! A public place, where all are welcome! Though just like Frances Hodgson Burnett's Garden, I hope it breathes life into all who visit :) 
 
-I was inspired by <[Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! And I hope to use this Garden to share my learning, as I study a MSc in Applied Positive Psychology and Coaching Psychology.
+I was inspired by <a[Maggie Appleton](https://maggieappleton.com/garden-history) who herself was inspired by some other really clever people! And I hope to use this Garden to share my learning, as I study a MSc in Applied Positive Psychology and Coaching Psychology.
 
 ---
 
