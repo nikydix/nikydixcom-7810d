@@ -53,6 +53,7 @@ These are newly planted, are in the early stages, and probably won't really look
 
 I'll be sharing these as you might be interested to find out more about what I'm planting though, so you can come back and watch it grow.
 
+
 <h3>Budding Ideas</h3>
 
 These will be notes taking shape and starting to blossom. Idea's will be rapidly forming, and you may begin to find things helpful.
