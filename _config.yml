@@ -41,7 +41,7 @@ collections:
     description: My thoughts and ideas
     feature_text: |
       Welcome to my garden
-    feature_image: 'https://picsum.photos/2560/600?image=866'
+    feature_image: 'https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png'
 defaults:
   - scope:
       path: ''
