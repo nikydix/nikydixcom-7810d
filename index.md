@@ -15,4 +15,4 @@ If you want to be the first to be notified when planting begins, you sign up her
 
 ![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
 
-If you want to find out more about what a digital Garden is, and is not, [click here!](/general/2018/08/22/hello-world/) 
+If you want to find out more about what a digital Garden is, and is not, [click here!](/about) 
