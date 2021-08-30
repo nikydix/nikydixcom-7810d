@@ -60,6 +60,6 @@ These will be notes taking shape and starting to blossom. Idea's will be rapidly
 
 <h3>Evergreen Notes</h3>
 
-These will probably be complete information and resources that can be donwloaded
+These will probably be complete information and potentially resources that can be donwloaded, 
 ---
 In the meantime, if you want to sign up to recieve emails with updates, please click here. *ADD LINK TO EMAIL SIGN UP**
