@@ -2,8 +2,7 @@
 title: What is a Digital Garden?
 
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
-feature_text: |---
-title: What is a Digital Garden?
+feature_text: |-
 ---
 
 I (Niky Dix) have been inspired to create this Digital Garden, to help people flourish.
