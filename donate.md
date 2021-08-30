@@ -6,7 +6,7 @@ feature_text: |-
 ---
 I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
 
-I founded 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities. do this, which is a registered Chritable Incorporated Organisation, England & Wales (1152310). It exists 
+I founded 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities.  registered Chritable Incorporated Organisation, England & Wales (1152310). It exists 
 
 I have been joined by a number of volunteers around the country, and can  focus on this work because a few "Intentional Health Angels" support this work financially. 
 
