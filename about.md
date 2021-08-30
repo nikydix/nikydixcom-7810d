@@ -1,4 +1,8 @@
 ---
+title: Welcome to our Digital Garden. 
+
+feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
+feature_text: |---
 title: What is a Digital Garden?
 ---
 
