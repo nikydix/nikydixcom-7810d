@@ -63,4 +63,4 @@ These will be notes taking shape and starting to blossom. Idea's will be rapidly
 These notes will be complete. They will resemble a traditional blog or research paper, along with applicable or actionable resources that can be donwloaded, and shared with others. 
 
 ---
-Obviously this Garden will take some time to germinate. If you want to sign up to recieve emails with updates, please click here. *ADD LINK TO EMAIL SIGN UP**
+Obviously this Garden will take some time to germinate. If you want to sign up to recieve emails with progress updates, or be the first to hear about new content, please click here. *ADD LINK TO EMAIL SIGN UP**
