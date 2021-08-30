@@ -60,6 +60,6 @@ These will be notes taking shape and starting to blossom. Idea's will be rapidly
 
 <h3>Evergreen Notes</h3>
 
-These notes will be complete. They will resemble a traditional blog or research paper, and potentially include resources that can be donwloaded, 
+These notes will be complete. They will resemble a traditional blog or research paper, along with applicable or actionalable resources that can be donwloaded, and shared with others. 
 ---
 In the meantime, if you want to sign up to recieve emails with updates, please click here. *ADD LINK TO EMAIL SIGN UP**
