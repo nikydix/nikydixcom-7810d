@@ -59,5 +59,7 @@ I'll be sharing these as you might be interested to find out more about what I'm
 These will be notes taking shape and starting to blossom. Idea's will be rapidly forming, and you may begin to find things helpful.
 
 <h3>Evergreen Notes</h3>
+
+These will probably be information and resources that can be donwloaded
 ---
 In the meantime, if you want to sign up to recieve emails with updates, please click here. *ADD LINK TO EMAIL SIGN UP**
