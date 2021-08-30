@@ -6,6 +6,4 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-This Digital Garden! 
-I can add anything else in here without 
-
+This Digital Garden is in the planning stage. Please come back here for updates and content shortly 
