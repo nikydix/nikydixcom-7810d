@@ -7,7 +7,7 @@ feature_text:
 
 I set up 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities (egistered Chritable Incorporated Organisation, England & Wales (1152310), after I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
 
-I have been joined by a number of volunteers around the country, and can continue to grow this work because a few "Intentional Health Angels" partner financially with us to do this work. 
+I have been joined by a number of volunteers around the country, and can continue to grow this work because a few "Intentional Health Angels" partner financially with us. 
 
 It means people who want to be part of this Intentional Health family, but don't have the time to give, can financially support the work we don't have the money to do! Just another great example of people coming together to do more collectively than we can individually :)
 
