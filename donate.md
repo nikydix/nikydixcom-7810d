@@ -19,6 +19,8 @@ Alternatively, you can make a one off donation below if you want to directly sup
 
 Thanks for your consideration to partner.
 
+Thanks also to those who alrea
+
 Niky :) 
 
 [Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
