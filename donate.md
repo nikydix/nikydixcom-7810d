@@ -23,4 +23,4 @@ Niky
 
 [Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
 
-[![FR-Fundraising-Badge-Mono-HR.png](https://i.postimg.cc/Bnsh1dCS/FR-Fundraising-Badge-Mono-HR.png)](https://www.fundraisingregulator.org.uk/directory?name=Intentional+Health) 
+[![FR-Fundraising-Badge-Mono-HR.png](https://i.postimg.cc/Bnsh1dCS/FR-Fundraising-Badge-Mono-HR.png)](https://www.fundraisingregulator.org.uk/directory?name=Intentional+Health) width="200"
