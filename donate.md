@@ -23,3 +23,4 @@ Niky
 
 [Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
 
+![Fundraising Regulator Badge]
