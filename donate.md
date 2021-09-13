@@ -11,7 +11,7 @@ I have been joined by a number of volunteers around the country, and can continu
 
 It means people who want to be part of this Intentional Health family, but don't have the time to give, can financially support the work we don't have the money to do! Just another great example of people coming together to do more collectively than we can individually :)
 
-Becoming an '[Angel]' also provides an opportunity for people who have been positively impacted by Intentional Health to be able to 'pay-it-forward' for someone else.
+Becoming an '[Angel](' also provides an opportunity for people who have been positively impacted by Intentional Health to be able to 'pay-it-forward' for someone else.
 
 If you would like to join and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
 
