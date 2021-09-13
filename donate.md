@@ -23,6 +23,6 @@ Niky
 
 [Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
 
-[![support-us-stewardship-yellow-x2.png](https://i.postimg.cc/y8vMrB1d/support-us-stewardship-yellow-x2.png)](https://postimg.cc/sMGHvkZd)
+[![support-us-stewardship-yellow-x2.png](https://i.postimg.cc/y8vMrB1d/support-us-stewardship-yellow-x2.png) =100x](https://postimg.cc/sMGHvkZd)
 
 [![FR-Fundraising-Badge-Mono-HR.png](https://i.postimg.cc/Bnsh1dCS/FR-Fundraising-Badge-Mono-HR.png =10x)](https://www.fundraisingregulator.org.uk/directory?name=Intentional+Health)  
