@@ -19,7 +19,7 @@ Alternatively, you can make a one off donation below if you want to directly sup
 
 Thanks for your consideration to partner.
 
-Thanks also to those who already partner, either by donating financially, 
+Thanks also to those who already partner, either by donating much needed financially, 
 
 Niky :) 
 
