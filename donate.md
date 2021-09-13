@@ -21,7 +21,7 @@ Thanks for your consideration to partner.
 
 Thanks also to those who already partner, either by donating much needed finances, time or skills (and especially to those who do all 3!) 
 
-Niky :) 
+Grateful to journey with you, Niky :) 
 
 [Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
 
