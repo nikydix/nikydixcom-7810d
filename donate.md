@@ -21,4 +21,4 @@ Thanks for your consideration, what ever you choose :)
 
 Niky 
 
-[Donate to ]
+[Partner with us to maintain this digital garden]
