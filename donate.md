@@ -4,7 +4,6 @@ title: Why donate?
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: 
 ---
-after I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
 
 I founded 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities (egistered Chritable Incorporated Organisation, England & Wales (1152310),  
 
