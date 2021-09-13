@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: 
 ---
 
-I set up 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities (egistered Chritable Incorporated Organisation, England & Wales (1152310),  after I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
+I set up 'Intentional Health CIO' to improve lifestyle health and reduce health inequalities (egistered Chritable Incorporated Organisation, England & Wales (1152310), after I gave up my teaching career in 2009 to be able to make a bigger impact, improving lifestlye health and wellbeing.
 
 I have been joined by a number of volunteers around the country, and can  focus on this work because a few "Intentional Health Angels" support this work financially. 
 
