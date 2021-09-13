@@ -21,4 +21,4 @@ Thanks for your consideration, what ever you choose :)
 
 Niky 
 
-[Partner with us to maintain this digital garden]
+[Partner with us to maintain this digital garden](https://www.stewardship.org.uk/pages/IntentionalHealthDigitalGarden)
