@@ -17,7 +17,7 @@ If you would like to join and become an angel too, please [click here](http://in
 
 Alternatively, you can make a one off donation below if you want to directly support the learning that is going on alongside this charitable work! 
 
-Thanks for your consideration to partnership.
+Thanks for your consideration to partner.
 
 Niky :) 
 
