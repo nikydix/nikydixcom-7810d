@@ -13,6 +13,6 @@ If you want to be the first to be notified when planting begins, you sign up her
 
 <script async data-uid="332407db9c" src="https://thoughtful-leader-1416.ck.page/332407db9c/index.js"></script>
 
-![](https://i.postimg.cc/3NQVwCkq/Sowing-a-seed-vector.png)
+
 
 If you want to find out more about what a digital Garden is, and is not, [click here!](/about) 
