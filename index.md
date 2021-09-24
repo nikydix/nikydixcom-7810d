@@ -11,6 +11,8 @@ We are still getting our piece of digital real-estate ready! and are going to be
 
 If you want to be the first to be notified when planting begins, you sign up here.
 
+---
+
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/nikydix/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
