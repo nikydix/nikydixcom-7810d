@@ -33,6 +33,8 @@ navigation_header:
     url: /donate/
   - title: Blog
     url: lorem-ipsum
+  - title: lorem-ipsum
+    url: lorem-ipsum
 navigation_footer:
   - title: Back to top
     url: '#top'
