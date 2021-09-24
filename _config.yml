@@ -28,7 +28,7 @@ navigation_header:
   - title: About
     url: /about/
   - title: Garden
-    url: /garden/
+    url: 'https://nikydix.roam.garden/'
   - title: Donate
     url: /donate/
 navigation_footer:
