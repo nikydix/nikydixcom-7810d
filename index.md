@@ -9,7 +9,7 @@ This Digital Garden is co-maintained by Niky Dix and [Intentional Health](https:
 
 We are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
 
-If you want to be the first to be notified when planting begins, you sign up here.
+If you want to be the first to be notified when planting begins, you can sign up here.
 
 ---
 
