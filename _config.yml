@@ -31,7 +31,7 @@ navigation_header:
     url: 'https://nikydix.roam.garden/'
   - title: Donate
     url: /donate/
-  - title: lorem-ipsum
+  - title: Blog
     url: lorem-ipsum
 navigation_footer:
   - title: Back to top
