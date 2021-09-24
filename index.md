@@ -32,5 +32,6 @@ If you want to be the first to be notified when planting begins, you sign up her
   </form>
 </div>
 
+---
 
 If you want to find out more about what a digital Garden is, and is not, [click here!](/about) 
