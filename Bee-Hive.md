@@ -1,15 +1,16 @@
 ---
-title: Welcome to our Digital Garden. 
-
+title: Welcome!
+categories:
+- General
+- Seedling
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
-feature_text: |
-  
 ---
-This Digital Garden is co-maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃 
 
-We are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
+Most of the content in this site will appear on the [Garden], however there may be times where I get a bee in my bonnet about something specific and want to share it more like a traditional blog post!
 
-If you want to be the first to be notified when planting begins, you can sign up below.
+This Bee-Hive will be the place for that! 
+
+I'll also do my best to send mini updates in between learning and digging, through semi-regular mini Garden Digest's so you can keep up with what's in season and what's just sprouting! 
 
 ---
 
@@ -36,4 +37,3 @@ If you want to be the first to be notified when planting begins, you can sign up
 
 ---
 
-If you want to find out more about what a digital Garden is, and is not, [click here!](/about) 
