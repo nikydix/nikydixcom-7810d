@@ -31,8 +31,6 @@ navigation_header:
     url: 'https://nikydix.roam.garden/'
   - title: Donate
     url: /donate/
-  - title: Blog
-    url: lorem-ipsum
   - title: Bee-Hive
     url: lorem-ipsum
 navigation_footer:
