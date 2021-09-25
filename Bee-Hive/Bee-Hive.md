@@ -6,7 +6,7 @@ categories:
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 ---
 
-Most of the content in this site will appear on the [Garden], however there may be times where I get a bee in my bonnet about something specific and want to share it more like a traditional blog post!
+Most of the content in this site will appear on the [Garden](), however there may be times where I get a bee in my bonnet about something specific and want to share it more like a traditional blog post!
 
 This Bee-Hive will be the place for that! 
 
