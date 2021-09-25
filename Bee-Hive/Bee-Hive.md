@@ -3,9 +3,6 @@ layout: blog
 collectionpage: posts
 title: Welcome to our Bee Hive
 ---
-categories:
-- General
-- Seedling
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 ---
 
