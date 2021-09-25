@@ -3,7 +3,6 @@ layout: blog
 collectionpage: posts
 title: Bee Hive
 ---
-title: Welcome!
 categories:
 - General
 - Seedling
