@@ -1,7 +1,7 @@
 ---
 layout: blog
 collectionpage: posts
-title: Bee Hive
+title: Welcome to our Bee Hive
 ---
 categories:
 - General
