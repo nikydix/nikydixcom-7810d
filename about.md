@@ -19,7 +19,7 @@ A Digital Garden is different from a traditional website or blog in 2 ways.
 
 1) A blog typically focuses on a single topic at once (though it may contain hyper links through to other topics), and has a pubished date. 
 
-If I was to learning in public with you through a traditional blog, I would learn something in private, then write about it, then publish it, and eventually you might read it. 
+If I was to learn in public with you through a traditional blog, I would learn something in private, then write about it, then publish it, and eventually you might read it. 
 
 A digital Garden is not published in one go, but grows and evolves, just like a real Garden! This means, I will be writing here and learning at the same time, and you will be able to peek in and watch or see what I learn!
 
