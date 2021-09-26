@@ -21,7 +21,7 @@ Alternatively, you can make a one off donation below if you want to directly sup
 
 Thanks for your consideration to partner.
 
-Thanks to those who already partner, either by donating these much needed funds, or generously giving time, skills and prayers (and especially to those who do all!) 
+Thanks to those who already partner, either by donating these much needed funds, or generously giving time, skills and prayers (and especially to those who do all of those!) 
 
 Grateful to journey with you, Niky :) 
 
