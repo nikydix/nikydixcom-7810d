@@ -23,7 +23,7 @@ If I was to share my learning in a traditional blog, I would learn something in 
 
 A digital Garden is different. It is not finished work that is published in one go. Instead, I write as I learn and the content grows and evolves, just like a real Garden! This means, as I learn and write in here, you will be able to peek in and learn with me!
 
-A digital Garden is also different in that it is not a linear stream of content. Instead, it is known as Topographic! This means all the different posts and articles create a landscape of different topics, that are related and that can be freely explored, again, just like a real garden!
+A digital Garden is also different because it's not a linear stream of content. Instead, it is known as Topographic! This means all the different posts and articles create a landscape of different topics, that are related and that can be freely explored, again, just like a real garden!
 
 You can chose your path through the Garden, depending on what you want to explore! I think of it like one of those 'choose your own adventure stories' 
 
