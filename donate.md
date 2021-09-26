@@ -15,7 +15,7 @@ Becoming an '[Angel](https://intentionalhealth.uk/angels/)' also provides an opp
 
 If you would like to join and become an angel too, please [click here](http://intentionalhealth.uk/angels/) to find out more.
 
-You can also sign up to recieve regular emails as a [member](https://www.getrevue.co/profile/nikydix/members), 
+You can also sign up to recieve regular email updates as a [member](https://www.getrevue.co/profile/nikydix/members), 
 
 Alternatively, you can make a one off donation below if you want to directly support the learning that is going on alongside this charitable work! 
 
