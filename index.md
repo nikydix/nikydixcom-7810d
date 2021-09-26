@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
 ---
-<strong>This is the place to share my MSc learning, and how I integrate this with Intentional Health so we can all learn how to flourish in life!
+<strong>This is the place I will share my MSc learning, and how I integrate this with Intentional Health so we can all learn how to flourish in life!
 </strong>
 
 --- 
