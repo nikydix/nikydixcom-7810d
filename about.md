@@ -27,7 +27,7 @@ A digital Garden is also different because it's not a linear stream of content. 
 
 You can chose your path through the Garden, depending on what you want to explore! I think of it like one of those 'choose your own adventure stories' 
 
-You can find out more about what I'll be studying by visiting [here] often or signing up for my Garden Digest below! 
+You can find out more about what I'll be studying by visiting [here]() often or signing up for my Garden Digest below! 
 
 ---
 
