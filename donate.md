@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: 
 ---
 
-After 10 years of teaching, I set up the [charity](Registered Charitable Incorporated Organisation, England & Wales (1152310) 'Intentional Health' to improve lifestyle health and reduce health inequalities. so I could make a bigger impact, improving lifestlye health and wellbeing.
+After 10 years of teaching, I set up the [charity](Registered Charitable Incorporated Organisation, England & Wales (1152310) 'Intentional Health' to improve lifestyle health and reduce health inequalities and improving lifestlye health and wellbeing.
 
 I have been joined by a number of volunteers around the country, and can continue to grow this work because a few "[Intentional Health Angels](https://intentionalhealth.uk/angels/)" partner financially with us. 
 
