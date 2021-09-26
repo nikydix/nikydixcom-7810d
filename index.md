@@ -9,7 +9,7 @@ feature_text: |
 </strong>
 
 --- 
-This Digital Garden is co-maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃 
+This Digital Garden is co-created and maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃 
 
 We are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
 
