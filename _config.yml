@@ -29,10 +29,10 @@ navigation_header:
     url: /about/
   - title: Garden
     url: 'https://nikydix.roam.garden/'
-  - title: Donate
-    url: /donate/
   - title: Bee-Hive
     url: /Bee-Hive/
+  - title: Donate
+    url: /donate/
 navigation_footer:
   - title: Back to top
     url: '#top'
