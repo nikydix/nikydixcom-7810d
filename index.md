@@ -10,7 +10,8 @@ This Digital Garden is co-created and maintained by Niky Dix and [Intentional He
 </strong>
 
 --- 
- 
+
+This is the place I will share my MSc Positive Psychology and Coaching Psychology learning, along with how I hope to integrate this with Intentional Health so we can all learn how to flourish in life!
 
 We are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
 
