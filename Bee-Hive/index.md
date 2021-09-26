@@ -9,7 +9,7 @@ Most of the content in this site will appear on the [Garden](https://nikydix.roa
 
 This Bee-Hive will be the place for that! 
 
-I'll also do my best to send mini updates between my learning and digging, through semi-regular mini Garden Digest's so you can keep up with what's in season and what's just sprouting! 
+I'll also do my best to send mini updates between learning and digging, through semi-regular mini Garden Digest's so you can keep up with what's in season and what's just sprouting! 
 Sign up for the digest below.
 
 ---
