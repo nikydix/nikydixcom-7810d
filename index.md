@@ -7,7 +7,6 @@ feature_text: |
 ---
 <strong>
 This Digital Garden is co-created and maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃
-This is the place I will share my MSc Positive Psychology and Coaching Psychology learning, along with how I hope to integrate this with Intentional Health so we can all learn how to flourish in life!
 </strong>
 
 --- 
