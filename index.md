@@ -6,6 +6,7 @@ feature_text: |
   
 ---
 <strong>A Place to share learning about flourishing in life!</strong>
+
 <br>
 This Digital Garden is co-maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃 
 
