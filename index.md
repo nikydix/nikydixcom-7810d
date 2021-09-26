@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
 ---
-<strong>A Place to share learning about flourishing in life!
+<strong>A Place to share my MSc learning about flourishing in life!
 </strong>
 
 <br>
