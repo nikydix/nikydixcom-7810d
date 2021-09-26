@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
 ---
-<strong>This is the place I will share my MSc Positive Psychology and Coaching Psychology learning, along with how I integrate this with Intentional Health so we can all learn how to flourish in life!
+<strong>This is the place I will share my MSc Positive Psychology and Coaching Psychology learning, along with how I hope to integrate this with Intentional Health so we can all learn how to flourish in life!
 </strong>
 
 --- 
