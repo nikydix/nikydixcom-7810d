@@ -13,7 +13,7 @@ This Digital Garden is co-created and maintained by Niky Dix and [Intentional He
 
 [This](https://nikydix.roam.garden/) is the place I will share my MSc Positive Psychology and Coaching Psychology learning. I'll also share how I hope to integrate this with our Intentional Health course, so we can all learn how to flourish in life!
 
-First lesson is next week and I'm busy reading  so we are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
+First lesson is next week and I'm busy with prep reading  so we are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
 
 If you want to be the first to be notified when planting begins, you can sign up below.
 
