@@ -5,7 +5,7 @@ feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 feature_text: |
   
 ---
-<h1></h1>
+<h1>A Place to share learning </h1>
 This Digital Garden is co-maintained by Niky Dix and [Intentional Health](https://www.intentionalhealth.uk), and like all great public gardens, everyone is welcome 😃 
 
 We are still getting our piece of digital real-estate ready! and are going to be planting here soon, so do come back!  
