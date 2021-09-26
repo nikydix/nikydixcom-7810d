@@ -5,7 +5,7 @@ title: Welcome to our Bee Hive
 feature_image: "https://i.postimg.cc/cC4GtDx8/nikysdigitalgardenheader.png"
 ---
 
-Most of the content in this site will appear on the [Garden](https://nikydix.roam.garden/), however there may be times where I get a bee in my bonnet about something specific, and want to share it more like a traditional blog post or illustrated essay!
+Most of the content in this site will appear on the [Garden](https://nikydix.roam.garden/), however there may be times where I get a bee in my bonnet about something specific, and want to share it more like a traditional blog post or illustrated essay.
 
 This Bee-Hive will be the place for that! 
 
