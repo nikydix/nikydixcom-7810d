@@ -11,7 +11,7 @@ This Bee-Hive will be the place for that!
 
 I'll also do my best to send mini updates between learning, by sending semi-regular mini Garden Digest's. That way you can keep up with what's in season and what's just sprouting! 
 
-Sign up for the Gdigest below.
+Sign up for the Garden Digest below.
 
 ---
 
