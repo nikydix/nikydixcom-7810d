@@ -7,7 +7,7 @@ feature_text: |-
 
 I (Niky Dix) have been inspired to create this Digital Garden, to help people flourish.
 
-Gardens that help people flourish in life are not new! [Frances Hodgson Burnett](https://en.wikipedia.org/wiki/The_Secret_Garden) wrote about a secret garden back that improved the health of a little boy back in 1911! 
+Gardens that help people flourish in life are not new! [Frances Hodgson Burnett](https://en.wikipedia.org/wiki/The_Secret_Garden) wrote about a secret garden that improved the health of a little boy back in 1911! 
 
 This Garden is not a secret Garden though, it's a Digital Garden! A public place, where all are welcome! Though just like Frances Hodgson Burnett's Garden, I hope it breathes life into all who visit :) 
 
